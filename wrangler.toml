@@ -2,7 +2,7 @@
 # Déploiement CLI: npx wrangler pages deploy public --project-name=nyxia-flipbook
 # Dashboard Cloudflare → Pages → Build output directory: public
 
-name = "nyxia-flipbook"
+name = "nyxiaflipbook"
 compatibility_date = "2024-01-01"
 
 [site]
